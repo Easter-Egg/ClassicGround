@@ -1,0 +1,3 @@
+rootProject.name = 'ClassicGround'
+
+include ':app'
